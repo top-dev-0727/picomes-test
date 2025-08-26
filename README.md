@@ -26,6 +26,3 @@ To deploy:
 - TypeScript
 - Tailwind CSS
 - Yarn as the package manager
-
-## License
-This project is intended for testing and evaluation purposes only and does not include a license.
